@@ -3,7 +3,7 @@
 -     I'm into(I suppose) programming currently.
 - 🌱 I’m learning Spring, JAVA, JSP, node.js, Android and so on for past few months.
 - 💞️ I’m looking to collaborate on anyone who would teach and work with but not to scold me! :)
-- 📫 How to reach me - mail me bkq0159@gmail.com or ssona5074@naver.com
+- 📫 How to reach me - mail me somehow55@gmail.com or ssona5074@naver.com
 - 💻 blog.naver.com/ssona5074 (blog in KOR)
 
 <!---
